@@ -1,4 +1,6 @@
 # right2learn
+
+I built this project for the SolutionHacks Hackathon
 A program to imrpove education access around the world
 
 This project uses HTML, CSS and Javascript aswell as some Rest API's
